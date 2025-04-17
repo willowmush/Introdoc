@@ -1,1 +1,1 @@
-# Introdoc
+# Calculator project
